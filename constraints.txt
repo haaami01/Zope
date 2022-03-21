@@ -38,7 +38,7 @@ roman==3.3
 shutilwhich==1.1.0
 six==1.15.0
 transaction==3.0.1
-waitress==1.4.4
+waitress==2.1.1
 z3c.pt==3.3.0
 zExceptions==4.1
 zc.lockfile==2.0
